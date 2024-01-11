@@ -1,3 +1,13 @@
+TO run the application
+first install python dependencies
+pip install langchain openai tiktoken flask
+clone the repo
+flask run
+the open another terminal
+cd client 
+npm install
+then npm run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
